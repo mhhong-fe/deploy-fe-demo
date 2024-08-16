@@ -1,5 +1,3 @@
 # deploy-fe-demo
 
-使用docker+jenkins完成自动化部署的demo
-
-测试jenkins-1
+使用docker部署前端服务的demo
